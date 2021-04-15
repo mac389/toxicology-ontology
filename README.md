@@ -1,8 +1,12 @@
 # toxicology-ontology
-The **purpose** of this web page is to provide a common access point for the development of the toxicologic ontology. Here is the current version of the ontology. 
+The **purpose** of this web page is to provide a common access point for the development of the toxicologic ontology.  
+
+1. Our first task is to translate the most recent edition of Goldfrank's _Toxicological Emergencies_ into an ontology. Ontologizing this canonical textbook will help identify and prioritize the objects and relations that the Toxicologic Ontology needs. 
+2. We are, in parallel, creating a graphical user interface (GUI) to help crowdsource ontology development. 
 
 ### Quickstart 
-
+1. Download the ontology in OWL format. (placeholder)
+2. Link to GUI. (placeholder)
 
 
 ### Dependencies
